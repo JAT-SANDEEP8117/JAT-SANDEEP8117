@@ -1,15 +1,161 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Building full-stack MERN applications and AI-powered projects.<br>- Developing RAG (Retrieval-Augmented Generation) based applications.<br><br>👯 I’m looking to collaborate on<br>- Open-source MERN and AI/ML projects.<br>- Innovative web applications and developer tools.<br><br>🤝 I’m looking for help with<br>- AI deployment, scalable system design, and cloud technologies.<br>- Optimizing RAG pipelines and LLM integrations.<br><br>🌱 I’m currently learning<br>- Retrieval-Augmented Generation (RAG)<br>- Large Language Models (LLMs)<br>- Advanced Backend Development<br>- System Design<br><br>💬 Ask me about<br>- C++<br>- Data Structures & Algorithms<br>- MERN Stack<br>- REST APIs<br>- MongoDB<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I enjoy solving coding problems and turning ideas into real-world applications.
+# Hi there, I'm Sandeep Jat 👋
 
+### 💻 Full Stack Developer | MERN Stack Developer | AI Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-jat-5b7b84290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatsandeep275@gmail.com) 
+Passionate about building scalable web applications and AI-powered solutions. I enjoy solving Data Structures & Algorithms problems and transforming ideas into impactful real-world applications.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JAT-SANDEEP8117&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JAT-SANDEEP8117&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JAT-SANDEEP8117&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🔭 **Currently Working On**
+- Building Full-Stack MERN applications
+- Developing AI-powered projects using RAG (Retrieval-Augmented Generation)
+
+🌱 **Currently Learning**
+- Large Language Models (LLMs)
+- Advanced Backend Development
+- System Design
+- Cloud Technologies
+
+👯 **Looking to Collaborate On**
+- Open Source Projects
+- MERN Stack Applications
+- AI/ML & RAG Projects
+- Developer Tools
+
+🤝 **Looking for Help With**
+- Scalable AI Deployments
+- Cloud Infrastructure
+- Optimizing RAG Pipelines
+
+💬 **Ask Me About**
+- C++
+- Data Structures & Algorithms
+- MERN Stack
+- MongoDB
+- REST APIs
+- Git & GitHub
+
+⚡ **Fun Fact**
+> I enjoy solving coding problems and turning ideas into real-world applications.
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=JAT-SANDEEP8117&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=JAT-SANDEEP8117&theme=neon&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JAT-SANDEEP8117&theme=neon&hide_border=false&layout=compact)
+
+---
+
+# 🚀 Featured Projects
+
+### 💰 Spend Smart
+A Full-Stack MERN Expense Tracker with secure authentication, budgeting features, and insightful analytics.
+
+### 🤖 CodeVault AI *(Coming Soon)*
+An AI-powered RAG application that enables intelligent document search and contextual responses using Large Language Models.
+
+### 👥 AAMIGOS
+A collaborative platform focused on improving team communication and productivity.
+
+### 📚 DSA Repository
+A growing collection of Data Structures & Algorithms solutions implemented in C++.
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+
+---
+
+## 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=plastic&logo=reacthookform)
+
+---
+
+## ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=jsonwebtokens)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=plastic&logo=ejs&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=plastic&logo=nodemon)
+
+---
+
+## 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate)
+
+---
+
+## 🤖 AI / Machine Learning
+
+![OpenCV](https://img.shields.io/badge/OpenCV-White?style=plastic&logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=plastic&logo=plotly&logoColor=black)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma)
+![Framer](https://img.shields.io/badge/Framer-000000?style=plastic&logo=framer)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=plastic&logo=adobe)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=plastic&logo=jira)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-jat-5b7b84290)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatsandeep275@gmail.com)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
